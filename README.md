@@ -9,6 +9,7 @@
 ---
 
 ### 🧰 Tech Stack
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -25,6 +26,7 @@
 ---
 
 ### 🧑‍💻 What I Do
+
 - Build responsive, component-driven web applications
 - Work with the MERN stack to solve real-world problems
 - Passionate about clean code, performance, and accessibility
@@ -33,6 +35,7 @@
 ---
 
 ### 📈 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CoderGuy614&theme=react" alt="GitHub Streak"/>
   <br/>
@@ -42,9 +45,12 @@
 ---
 
 ### 📄 Resume
+
 📥 [Download My Resume](./Tech-Resume.pdf)
 
 ---
 
 ### 🌐 Connect With Me
+
 - 🔗 [LinkedIn](https://linkedin.com/in/jason-wells-329736304)
+- 🔗 [MyProfolio](https://wells-jason.com)
