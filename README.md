@@ -37,8 +37,6 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CoderGuy614&theme=react" alt="GitHub Streak"/>
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderGuy614&layout=compact&theme=react" alt="Top Languages"/>
 </p>
 
@@ -46,7 +44,7 @@
 
 ### 📄 Resume
 
-📥 [Download My Resume](./Tech-Resume.pdf)
+📥 [Download My Resume](./jasonwellsresume.pdf)
 
 ---
 
