@@ -44,8 +44,7 @@
 
 ### 📄 Resume
 
-📥 [Download My Resume](./jasonwellsresume.pdf)
-
+📥 [Download My Resume](./JasonWellsResume.pdf)
 ---
 
 ### 🌐 Connect With Me
